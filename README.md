@@ -1,4 +1,4 @@
-# 📘 Matemática
+# 🔢 Matemática
 
 📚 Tecnicatura Universitaria en Programación  
 📍 Universidad Tecnológica Nacional (UTN)
