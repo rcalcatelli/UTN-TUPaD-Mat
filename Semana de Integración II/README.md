@@ -110,3 +110,12 @@ O ejecutar bash: bash setup.sh
 #### Check:
 
 Comprobar si las dependencias de requirements.txt se encuentran instaladas, caso contrario python install para cada una de las siguientes librerias: matplotlib, matplotlib-venn
+
+---
+
+### Video explicativo
+
+Se ha realizado un video donde se explican los objetivos del proyecto, la estructura del código y
+los resultados obtenidos.
+
+**Enlace al video:** https://youtu.be/QuteWDIjAOI
